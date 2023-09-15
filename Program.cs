@@ -1,28 +1,27 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Michelangelo;
+using System.Diagnostics;
+using Leonardo;
 
-var result = Fibonnaci.Run(int.Parse(args[0]));
-Console.WriteLine($"Voici le resultat {result}");
-/*
-int Fib(int i) => i switch
+Stopwatch stopwatch = new Stopwatch();
+stopwatch.Start();
+foreach (var arg in args)
 {
-    int when i <= 2 => 1, _ => Fib(i - 2) + Fib(i - 1)
+    var result = Fibonacci.Run(int.Parse(arg));
+    Console.WriteLine("$Hello {result}");
+    Console.WriteLine($"Elapsed time : {stopwatch.ElapsedMilliseconds} ms" );
+
 }
-;
+stopwatch.Stop();
+Console.WriteLine("Total elapsed : {0} ms ", stopwatch.ElapsedMilliseconds);
 
-System.Console.WriteLine("The result is " + Fib(int.Parse(args[0])));
-*/
-namespace Michelangelo
+namespace Leonardo
 {
-    public class Fibonnaci
+    public class Fibonacci
     {
-        public static int Run(int i)
-        {
-            if (i <= 2) return 1;
-            return Run(i - 1) + Run(i - 2);
+        public static int Run(int i) { 
+            if(i<=2) return 1;
+            return Run(i-2) + Run(i-1);
         }
+
     }
 }
-
-
-
