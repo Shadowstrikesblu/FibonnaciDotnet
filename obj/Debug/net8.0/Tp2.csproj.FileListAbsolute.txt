@@ -1,0 +1,14 @@
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\Tp2.exe
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\Tp2.deps.json
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\Tp2.runtimeconfig.json
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\Tp2.dll
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\Tp2.pdb
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.AssemblyInfoInputs.cache
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.AssemblyInfo.cs
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.csproj.CoreCompileInputs.cache
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.dll
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\refint\Tp2.dll
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.pdb
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\Tp2.genruntimeconfig.cache
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\obj\Debug\net8.0\ref\Tp2.dll

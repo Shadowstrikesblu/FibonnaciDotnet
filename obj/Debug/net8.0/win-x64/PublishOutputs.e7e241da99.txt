@@ -1,0 +1,2 @@
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\win-x64\publish\Tp2.pdb
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Tp2\bin\Debug\net8.0\win-x64\publish\Tp2.exe
